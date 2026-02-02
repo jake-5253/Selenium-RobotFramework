@@ -17,7 +17,7 @@ Test Automation Framework using Selenium WebDriver and Robot Framework
         - Add `C:\Users\(user)\AppData\Local\Programs\Python\Python311` and `C:\Users\(user)\AppData\Local\Programs\Python\Python311\Scripts`
 3. **Set .venv as Python interpreter**
 4. **Run Tests**
-    - via `PyCharm Terminal`:
+    - via `Terminal`:
         - `robot --pythonpath . --outputdir ./allure-report .\tests\demo_planittesting.robot`
 
 # Others
