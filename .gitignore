@@ -1,0 +1,27 @@
+# auto generated files
+*/__pycache__/
+.idea/
+.project
+.pydevproject
+.settings/
+.metadata/
+
+# allure generated reports and results
+allure-report/
+allure-report/*
+allure-report/export/*
+allure-results/*
+
+# robot framework generated reports
+log.html
+output.xml
+report.html
+
+# all logs files
+*.log
+
+# pabot results
+pabot_results/
+pabot_results/*
+.pabotsuitenames
+

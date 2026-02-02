@@ -1,0 +1,1 @@
+powershell -Command "(gc config.py) -replace 'ie', 'grid' ` -replace 'chrome', 'grid' ` -replace 'firefox', 'grid' | Out-File config.py"

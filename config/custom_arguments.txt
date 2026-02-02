@@ -1,0 +1,3 @@
+--pythonpath C://../.
+--outputdir C://../allure-report/
+--listener allure_robotframework;C://../allure-report/

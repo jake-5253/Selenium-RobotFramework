@@ -1,0 +1,6 @@
+robotframework
+robotframework-selenium2library
+selenium==4.18.1
+allure-robotframework
+robotframework-pabot
+pytz
