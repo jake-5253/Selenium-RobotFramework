@@ -4,8 +4,7 @@ Test Automation Framework using Selenium WebDriver and Robot Framework
 # Capabilities
 - ✅ Allure.html reporter
 - ✅ Keyword or Gherkin/BDD Test Case format
-- ✅ Parallelized execution on All levels using Pabot
-- ✅ Selenium Grid ready
+- ✅ Parallelized execution on Test Case level using Pabot
 - ✅ Gitlab CI ready
 - ✅ Execute via CMD (robot runner)
 
